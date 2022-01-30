@@ -1,0 +1,15 @@
+{"widget": {
+    "debuw": "on",
+    "window": {
+        "title": "Sample Konfabulator Widget",
+        "name": "main_window",
+    
+        "width": 500,
+        "height": 500
+    }, "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },    "data": "abulator Widget",
+        "ndth": 500,    "height": 500 "height": 500
+    },
+    

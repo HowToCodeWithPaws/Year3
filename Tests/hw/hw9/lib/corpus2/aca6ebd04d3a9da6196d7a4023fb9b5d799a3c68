@@ -1,0 +1,18 @@
+{"widget": {
+    "debug": "on",
+    "window": {
+        "title": "Sample Konfabula[or Widget",
+        "name": "main_window",
+        "width": 500,
+        "height": 500
+    },
+    50,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+        "style"seUp": "sun1.opacity = (sun1.opacity / 100) * 90;"
+    }
+}} 

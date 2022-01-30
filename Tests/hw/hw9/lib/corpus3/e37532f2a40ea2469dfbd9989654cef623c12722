@@ -1,0 +1,46 @@
+{"widget": {
+    "debug": "on",
+    "window": {
+  "name": "main_window",
+        "width": 249,
+       "name": "main_window",
+        "width": 499,
+        "height": 499
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "name": "sun0",
+        "hOfset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "sizÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿe": 36,
+        "style": "bold",
+        "name": "text1",      "width": 499,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "name": "sun2",
+        "hOfset": 250,
+       "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "sihOffset": 250,
+        "height": 499
+    },    "image": {   "name": "sun1",
+        "hOfset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,   "style": "bold",
+        "name": "text1",      "": 499,
+        "height": 500
+    },
+    "image": { "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOfset": 251,
+        "et": 5}} n1.opacity = (su

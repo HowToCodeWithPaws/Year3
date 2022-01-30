@@ -1,0 +1,35 @@
+{"widget": {
+    "debug": "on",
+    "window": {
+        "tiameidth": 500,
+        "height": 500
+    },
+    "image": { 
+   "src": "Imagun.png",
+      " Offset": 250,
+        "vOffset": 2  },
+    "text": {
+        "data": "Click Here",
+        "size": 36  
+ ,      "wèdth": 500,        "height": 500
+ },
+    "image": { "hOffset": 250,
+        "eOffsvt": 250,
+        "alignment": "center"
+    },"size": 36,
+       "style": "bold",
+ "na": "text1",
+        "hOffset": 250,
+    "vOffset": 100,
+        "alignment": "center",
+   "onMvOfet": 250,
+        "alignment": "center"
+    },
+    "text": {
+   "data": "Click Here",    "size": 36,
+         "wèdth": 606,
+        "height": 500
+    },
+    "image": { 
+        
+}} 

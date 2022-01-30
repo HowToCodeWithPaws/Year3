@@ -1,0 +1,26 @@
+{
+    "quiz": {
+        "sport": {
+            "q1": {
+ "options": [
+                    "New York Bulls Kings",
+                    "Golden State Warriros",
+                    "Huston Rocket"
+                ],
+                "answer": "Huston Rocket"
+            }
+        },
+        "maths": {
+            "q1": {
+                      "options": [
+                    "10",
+                    "11",
+                    "12",
+                    "13"
+                ],
+                "answer": "12"2 - 8 = ?",
+                "options": [
+
+        }
+    }
+}

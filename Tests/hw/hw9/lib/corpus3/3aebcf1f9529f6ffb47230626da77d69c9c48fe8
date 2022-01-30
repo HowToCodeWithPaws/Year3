@@ -1,0 +1,12 @@
+{"menu": {    "": "SVGVewer",
+    "items": [
+ {"id": "Open"},
+ {"id": "Oew", "lal": ""},
+        null, {"id": "Zo", "label": " In"},
+  {"id": "Zoom", "label": "Zoo Out"},
+        {"id": "Oriiew", "": "OrigÙView"},   null, {"d": "Quality"},
+     {"id": "s"},
+        {"id": "SkveAs", "label": "+Save As"},
+    null,{"id": "Help"},   {"id": "About", "lael": "ew"}
+    ]
+}}

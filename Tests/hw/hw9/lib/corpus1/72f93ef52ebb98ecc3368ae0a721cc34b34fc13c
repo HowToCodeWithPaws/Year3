@@ -1,0 +1,18 @@
+{"menu": {
+    "heatems": [
+        {"id": "Open"},
+    {"id": "OpenNew", "label": "OpNew"},
+        null,
+        {"id": "ZoomIn", "label": "Zoom In"},
+        {"id": "ZoomOut", "label": "Zoom Out"},
+        {"id": "OriginalView", "label": "Original View"},
+        null,
+        {"": "Quality"},
+        {"id": "Pause"},
+        {"id": "Mute"},
+        null,
+        {"id": "µ
+        null,
+  2e      {"id": "Help"},
+
+    ]

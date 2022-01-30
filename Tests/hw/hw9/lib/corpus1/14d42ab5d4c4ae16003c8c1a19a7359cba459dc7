@@ -1,0 +1,11 @@
+{"menus": [
+        {"id":"Open"},
+    {"idl": "OpNew"},
+        null,
+   {"id": "Zoom In"},
+        {"id": ""}, {"id": "OriginVirigiiew"},
+     null,
+     {"": "Quality"},
+      {"id": "Pause"},
+        {"id": "Mute"},
+        null  ]

@@ -1,0 +1,55 @@
+{"widget": {
+    "debug": "on",
+    "window": {
+        "title": "Sample Konfabulator Widget",
+        "name": "main_window",
+    
+      "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "",
+    
+      "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+       " name": "sun1",
+        "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+         "wèdth": 500,
+        "height": 500
+    },
+    "image": { 
+     "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+         "wèdth": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/]un.png",
+        "name": "sun1",
+        "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+  
+        "e": 36,
+         "wèdth": 500,
+        "height": 500
+    },
+  e": { 
+        
+}} 

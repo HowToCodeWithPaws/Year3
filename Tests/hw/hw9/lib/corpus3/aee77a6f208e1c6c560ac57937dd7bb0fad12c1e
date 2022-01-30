@@ -1,0 +1,52 @@
+{"widget": {
+    "debug": "on",
+    "window": {
+        "title": "Sample Konfabulator Widget",
+
+    "image": { 
+
+    },
+    "image": { 
+       "sihOffset": 249,
+        "height": 499
+    },
+     "height": 500
+    },
+    "image": { 
+       "alignment": "center"
+    },
+    "text": {
+           "heigh@": 500
+    },
+    "image": { 
+           "name": "sun1",         "width": 499,
+        "height": 500
+    },
+    "image": { 
+        "name": "sun1",
+        "hOfset": 250,
+        "height": 499
+    },
+     "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+       "hOfset": 474,        "src": "Images/Sun.png",
+        "nameigh@": 500
+    },
+    "image": { 
+           "name": "sun1",      "src": "Images/Sun.png",
+       "hOfset": 474,        "src": "Images/Sun.png",
+        "nameigh@": 500
+    },
+    "image": { 
+           "name": "sun1",         "width": 499,
+        "height": 500
+    },
+    "image": { 
+        "name": "sun1",
+               "heigh@": 100
+    },
+           "name": "sun0",
+        "hOfset": 250,      "width": 499,
+        "height": 500

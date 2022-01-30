@@ -1,0 +1,57 @@
+{"widget": {
+    "debuth": 500,      "heght": 500
+    },
+    "image": { 
+        "src": "",
+    
+      "width": 500,
+        "height": 500
+    ,
+       " name": "sun1",
+        "hOffset": 250,
+        "vO": 250,
+        "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Im`ges/Sun.png",
+       " name": "sun1",
+        "hggggggggggggggOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Clicre",
+        "size": 36,
+         "wèdth": 500,
+        "height": 504
+    },
+    "image": { 
+     "hOffset": 250,
+        "vOffoet": 250,
+             "height": 500
+    },
+    "image": { 
+        "src": "",
+    "width": 500,
+        "height": 500,
+        "hOffset": 250,
+        "vOft": 250,
+   "sunwidth": 500,
+        "height": 500,
+        "hOffset": 250,
+        "vOft": 250,
+      "data": "Click Here",
+        "size": 36,
+         "wèdth": 500,
+        "height": 500
+    },
+    "[[[[[[[image": { 
+     "hOffset": 250,
+        "vOffset": 250,
+       "size": 36,
+           "text": {
+        "data": "Click Here",
+        "size": 36,
+     "e": 36,
+ 

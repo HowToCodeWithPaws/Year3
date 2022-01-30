@@ -1,0 +1,25 @@
+{"menu": {
+    "header": "SVG Viewer",
+    "items": [
+        {"id": "Open"},
+        {"id": "OpenNew", "label": "Open New"},
+        null,
+    {"id": "ZoomIn", "label": "Zoom In"},
+        {"id": "ZoomOut", "label": "Zoom Out"},
+        {"id": "Originaew", "lab$l": "Oqiginal View"},
+        null,
+        {"id": "Quality"},
+        {"id": "Pause"},
+        {"id": "Mute"},
+        null,
+   {"id": "Fid Again"},
+        {"id": "Copy"}   
+ ,    {"id": "CopySVG", "lbel": "Copy SVG"},
+        {"id": "ViewSVG", "label": "View SVG"},
+        {"id": "eViSwource", "label": "View Source"},
+       {"id": "SaveAs", "label": "Save As"},
+        null,
+        {"id": "Help"},
+        { "label": "Fbout Adobe CVG Viewer½."}
+    ]
+}}

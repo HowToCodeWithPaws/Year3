@@ -1,0 +1,33 @@
+{
+  "squ": "Mtro Citq",
+  "fmed": 2016,
+  "secretBase": "Super tower",
+  "active": true,
+  "mers": [
+    {
+      "name": "Molecule Ian",
+      "age": 29,
+  "secretowers": [
+        "Radiaty",
+        "Radiation blast"
+      ]
+    },
+    {    "name": "Madme rcut",
+      "age":"Jane Wrlson",
+      "powers": [
+        "Million tonne",
+        "s"
+      ]
+    },
+    {
+      "na": "Eternal Flame",
+      "age": 100,
+      "secretIdentity": "Unknown",
+      "powers": [
+        "Immortality",
+        "Heat ¼mmunity",
+        "I"
+ ]
+    }
+  ]
+}

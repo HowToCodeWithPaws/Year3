@@ -1,0 +1,20 @@
+{
+    "quiz": {
+        "sport": {
+            "q1": {
+                "question": "Whrect team name in NBA?",
+                "options": [
+                    "New York Bulls",
+                    "Los Angeles Kings",
+               "Golden 'tate Warriros",
+                    "Huston Rocket"
+                ],
+                 "options": [
+             "2",
+                    "4"
+                ],
+             "answer": "4"
+            }
+        }
+    }
+}

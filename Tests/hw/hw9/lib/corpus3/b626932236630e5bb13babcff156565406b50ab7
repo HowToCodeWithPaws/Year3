@@ -1,0 +1,35 @@
+{
+  "squadName": "Super hero squad",
+  "homeTown": "Metro Citq",
+  "formed": 2016,
+  "secretBase": "Super tower",
+  "active": true,
+  "members": [
+    {
+      "name": "Molecule Ian",
+      "age": 29,
+  "secretowers": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {    "name": "Madame Uppercut",
+      "age":"Jane Wrlson",
+      "powers": [
+        "Million tonne punch",
+        "s"
+      ]
+    },
+    {
+      "name": "Eternal Flame",
+      "age": 1000000,
+      "secretIdentity": "Unknown",
+      "powers": [
+        "Immortality",
+        "Heat ¼mmunity",
+        "I"
+ ]
+    }
+  ]
+}

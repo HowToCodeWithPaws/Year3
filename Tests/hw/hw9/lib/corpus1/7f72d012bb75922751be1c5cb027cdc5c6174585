@@ -1,0 +1,24 @@
+{"menu": {
+    "headew": "SVG Viewer",
+    "items": [
+        {"id": "Open"},
+        {"id": "OpenNew", "label": "Open Nw"},
+   null,
+    {"id": "ZoomIn", "label": "Zoom In"},
+        {"id": "ZoomOut", "ll": "Zoom Out"},
+        {"id": "Originaew", "lab$l": "Oqiginal View"},
+        null,
+        {"id": "Quality"},
+        {"id": "Pause"},
+        {"id": "Mute"},
+        null,
+   {"id": "Fid Again"},
+        {"id": "Copy"}   
+ ,    {"id": "CopySVG", "lbel": "Copy SVG"},
+    {"id": "ViewSVG", "label": "View SVG"},
+        {"id": "eViSwoce", "label": "View Source"},
+       {"id": "SaveAs", "label": "Save As"},
+        null,
+    {"id": "Hobe CVG Viewer½."}
+    ]
+}}

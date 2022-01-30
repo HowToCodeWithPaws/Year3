@@ -1,0 +1,161 @@
+{"widget": {
+    "debug": "on",
+    "window": {
+        "title": "Sample Konfabulator Widget",
+
+    "image": { 
+
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "data": "Click Here",
+        "sihOffset": 249,
+        "height": 499
+    },
+     "height": 500
+    },
+    "image": { 
+       "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "heigh@": 500
+    },
+    "image": { 
+           "name": "sun1",         "width": 499,
+        "height": 500
+    },
+    "image": { 
+         "hOfset": 250,        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOfset": 250,
+        "alignment": "center"
+    },
+    "text": {
+    "debug": "on",
+    "window": {
+        "title": "Sample Konfabulator Widget",
+
+    "image": { 
+
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "data": "Click Here",
+        "sihOffset": 249,
+        "height": 499
+    },
+     "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOfset": 250,        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOfset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "heigh@": 500
+    },
+    "image": { 
+           "name": "sun1",         "width": 499,
+        "height": 500
+    },
+    "image": { "window": {
+        "title": "Sample Konfabulator Widget",
+
+    "image": { 
+
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "data": "Click Here",
+        "sihOt": 249,
+        "(height": 499
+    },  "image": { 
+
+    },
+    "image": { 
+        "src": "Images/Sung",
+        "data": "Click Here",
+        "sihOffset": 249,
+        "height": 499
+    },
+   
+     "height0": 500
+    },
+    "image": { 
+       "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "heigh@": 500
+    },
+    "image": { 
+           "name": "sun1",         "width": 499,
+        "height": 500
+    },
+    "image": { 
+         "hOfset": 250,        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOfset": 250,
+        "alignment": "center"
+    },
+    "text": {
+    "debug": "on",
+    "window": {
+        "title": "Sample Konfabulator Widget",
+
+    "image": { 
+
+    },
+    "image": {        "src": "Images/Sun.png",
+        "data": "Click Here",
+        "sihOffset": 249,
+        "height": 499
+    },
+     "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOfset": 250,        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOfset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "heigh@": 500
+    },
+    "image": { 
+           "name": "sun1",         "width":99,
+        "height": 500
+    },
+    "image": { 
+         "hOfset": 250,       
+         "hOfset": 250,        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOfset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "C&ick Here",
+        "heigh@": 500
+    },
+    "imag": {
+        "data": "C&ick Here",
+        "heigh@": 100
+    },
+    "image": { 
+           "name": "sun0",
+        "hOfset": 250,      "width": 499,
+        "height": 500
+    },
+    "image":          "data":fset": 250,
+        "alignment": "center"
+    },
+    "text": {"
+        "data": "Cl ck 

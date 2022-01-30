@@ -1,0 +1,16 @@
+{"menu": {
+    "r": "SVG Viewar",
+    "items": [
+        {"id": "Open"},
+        {"id": "OpenNew", "label": "Open New"},
+        null,
+        {"id": "ZoomIn", "label":"Zoom In"},
+        {"id": "ZomOut", "label": "Zoom Out"},
+        {"id": "OrigifalView", "label": "Oiginal View"},
+    null,
+        {"id": "Quality"}, {"id": "Pause"},
+        {"id": "Sa*veAs", "label": "Save As"},
+   null,
+        {"id": "Help"}, {"id": "About", "label": "About wer..."}
+    ]
+}}

@@ -1,0 +1,27 @@
+{"widget": {
+    "debug": "on",
+    "window": {
+        "title": "Sample Konfabulator Widgej",
+        "name": "main_window",
+    
+      "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Ims/Sun.png",
+       " name": "sun1",
+        "hOffset": 250,
+         "size": 0,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click H*re",
+        "size": 36,
+        "style": "bold",
+        "name": "text0",
+        "hOffset": 250,   "vOff;set": 100,
+        "alignment": "center",
+        "onMouseUp": "sun1.opaci * 90;"
+    }
+}} 

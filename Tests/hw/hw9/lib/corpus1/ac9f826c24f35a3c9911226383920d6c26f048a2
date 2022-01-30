@@ -1,0 +1,26 @@
+{
+    "qui z": {
+        "sport": {
+            "q1": {
+         "question": "Which one is correct team name in NBA?",      "options": [
+                    "New York Bulls",
+                        "Huston Rocket"
+                ],     "answer": "Huston Rocket"
+            }
+        },
+        "maths": {
+            "q1": {
+                        "options": [
+                    "10", 
+                        "13"
+                ],
+           "answer": "Huston Rocket"
+            }
+        },
+        "maths": {
+            "q1": {
+                "qr": "4"
+            }
+        }
+    }
+}

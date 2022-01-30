@@ -1,0 +1,45 @@
+{"widget": {
+    "debug": "on",
+    "window": {
+        "title": "Sampnfabulator Widget",
+        "name": "maËin_window",
+        "width": 499,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOfset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+        "sdow": {
+        "title": "Sa]ple Konfabulator Widget",
+        "name": "main_window", "width": 499,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "name": "sun0",
+        "hOfset": 250,
+            },
+    "text": {
+        "”ž‹ž": "Click Here",
+        "size": 36,
+        "style": "bold",
+        "name": "text1",      "width": 499,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOfset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+        "style": "bold",
+        "name": "text1"ta": "Click"

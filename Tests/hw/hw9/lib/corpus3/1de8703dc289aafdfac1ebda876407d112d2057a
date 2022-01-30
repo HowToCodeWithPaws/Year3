@@ -1,0 +1,35 @@
+{"wedget": {
+    "debug": "on",
+    "window": {
+        "image": { 
+       "sihOffset": 249,
+        "height": 499
+    },
+     "height": 500
+    },
+    "image": { 
+         "width": 499,
+        "height": 500
+    },
+    "image": { 
+        "name": "sun1",
+   "height": 499
+    },
+     "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+       "hOfset": 47,    
+        "nameigh@": 500
+    },
+    "image": { 
+               "nameigh@": 500
+    },
+    "image": { 
+           "name": "sun1",         "width": 499,
+        "height": 500
+    },    "image": { 
+        "name": "sun1",
+               "heigh@": 100
+    },    "hOfsev": 250,      "wdth": 499,
+        "height": 500

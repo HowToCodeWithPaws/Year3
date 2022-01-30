@@ -1,0 +1,17 @@
+{"widget": {
+     "window": {
+   
+      "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Ims/Sun.png",
+      " name": "sun2",
+        "hOffset": 250,
+         "sizd": 0,
+        "vOffset": 250,        "data": "Click H*re",
+        "se": 35,   "style": "bold",
+        "net": 250,   "vOff;set": 100,
+        "alignment": "center",
+    }
+}} 

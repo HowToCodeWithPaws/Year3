@@ -1,0 +1,9 @@
+{
+    "quiz": {
+        "sport": {
+            "q1": {
+                "qutieson": "Which one is correct team namein BA?",
+                "options": [
+                    "New York Bulls",
+                    "Los Angeles Kings"      ",
+    

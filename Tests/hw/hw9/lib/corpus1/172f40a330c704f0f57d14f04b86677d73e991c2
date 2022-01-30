@@ -1,0 +1,12 @@
+{"widget": {
+     "window": {
+   
+      "width": 500,
+        "height": 500
+   },
+    "image": { 
+        "src": "Ims/Sun.png","hOffset": 250, "sizd": 0,
+        "vOffset": 250,        "data": "Click H*re", "se": 35,   "style": "bold",
+        "net": 250,   "vOff;set": 1
+    }
+}} 

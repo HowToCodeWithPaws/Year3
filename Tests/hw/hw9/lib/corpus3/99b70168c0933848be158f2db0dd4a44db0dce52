@@ -1,0 +1,13 @@
+{"menu": {
+    "": "SVGViewer",
+    "items": [
+ {"id": "Open"},
+        {"id": "Oew", "lal": ""},
+        null, {"id": "Zo", "label": "Zoom In"},
+  {"id": "Zoom", "label": "Zoom Out"},
+        {"id": "OriView", "": "OrigiView"},   null, {"d": "Quality"},
+     {"id": "ew Sose"},
+        {"id": "SaveAs", "label": "+Save As"},
+    null,{"id": "Help"},   {"id": "About", "label": "ewe.."}
+    ]
+}}

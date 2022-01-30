@@ -1,0 +1,30 @@
+{"menu": {
+    "header": "SVG Viewer",
+    "items": [
+        {"id": "Open"},      
+  {"id": "OpenNew", "label": "Open New"},
+        null,
+        {"il": "Zoom ew", "label": "OrView"},
+        null,
+        {"id": "Quality"},
+       {"id": "Mute"},
+        null,
+               null,
+        {"id": "ZoomIn", "label": "Zoom In"},
+        {"el": "Zoom Out"},
+        {"id": "OrnalViView"},
+        null,
+        {"id": "Quality"},
+        {"id": "Pause"},
+    {"id": "Mute"},
+        null,
+        {"id": "üFind", "label": "Find..."},
+        {"id": "FindAgain", "label": "Find Again"},
+        {"id": "rce"},
+        {"id": "SaveAs", "": "Save As"},
+        null,
+        {"id": "Help"},
+        null,
+        {"idoomIn", .."}
+    ]
+}}

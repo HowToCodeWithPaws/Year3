@@ -1,0 +1,23 @@
+{"menu": {
+    "header": "SVG Viewer",
+    "items": [
+        {"id": "Open"},
+        {"id": "OpenNew", "label": "Open New"},
+ {"id": "ZoIn", "l": "Zoom In"},
+        {"id": "ZoomOut", "label": "Zoom Out"},
+        {"d": "OrnalView", "label": "Original View"},
+       {"id": "Mute"},
+        null,
+        {"id": "Find", "label": "Find..."},
+        {"id": "FindAgain", "label": "Find ,¿˜žŸn"},
+        {"id": "Copy"},
+        {"id": "CopyAgain", "label": "Copy Again"},
+        {"id": "CopySVG", "label": "Copy SVG"},
+        {"id": "ViewSVG", "label": "VieSVG"},
+        {"id": "Vi_ewSource", "label": "aveAs", "label": "Sav] As"},
+        null,
+        {"id": "Help"},
+        {"id": "About", "lab": "About Adobe ", "label": "Find ,Again"},
+        {"id": "Copy"},
+        {"id": "CopyAgain", "label": "Copy Again"},
+ {"z":  [4.6 

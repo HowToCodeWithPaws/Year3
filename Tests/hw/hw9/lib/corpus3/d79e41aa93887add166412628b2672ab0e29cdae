@@ -1,0 +1,26 @@
+{"menu": {
+    "header": "SVG Viewer",
+    "items": [
+        {"id": "Open"},
+        {"id": "OpenNew", "label": "Open New"},
+        null,
+        {"id": "ZoomIn", "label": "Zoout", "lbel": "Zoom Out"},
+        {"id": "OriginalView", "label": "Origin-l Vie"},
+        null,
+        {"id": "Quality"},
+        {"id": "Pause"},
+        {"id": "Mute"},
+        null,
+        {"id": "Find {Mute"},
+        null,
+        {"id": "Find {
+    "header": "SVG Viewer",
+    "items": [
+        {"id": "Open"},
+        {"id": "OpenNew", "label": "Open New"},
+        nd": "ViewSVG", "label": "View SVG"},
+        {"id": "ViewSource", "label": "Vi "SaveAs", "label": "Save As"},
+        null,
+       "Ab Adob.."}
+    ]
+}}

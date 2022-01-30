@@ -1,0 +1,17 @@
+{
+  "squadName": "Super hero squad",
+  "hetBase": "Super tower",
+  "active": true,
+  "members": [
+    {
+      "name": "Molecule Man",
+         "lame": "Madame Uppr",
+  "active": true,
+  "members": [
+  ]
+    },
+    {
+     "active": true,
+  "memb": "Molecule Man",
+    ]
+}

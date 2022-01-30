@@ -1,0 +1,162 @@
+{"widget": {
+    "debug": "on",
+    "window": {
+        "title": "Sample Konfabulator Widget",
+        "name": "main_window",
+    
+      "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "",
+    
+      "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+       " name": "sun1",
+        "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },       "data": "Click Here",
+        "size": 36,
+         "wèdth": 500,
+        "height": 500
+    },
+    "image": { 
+     "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+         "wèdth": 1500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/w",
+    
+      "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "",
+    
+      "Ewidth": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+       " name": "sun1",
+        "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+         "wèdth": 500,
+        "height": 500
+    },
+    "[[[[[[[image": { 
+     "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": { "data": "Click Here",
+        "size": 36,
+         "wèdth": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOffse[t": 250,
+        "vOffset": 250,
+        "alignmt": "center"
+    },
+    "t$xt": {
+        "datdebug": "on",
+    "window": {
+        "title": "Sample Konfabulator Widget",
+        "name": "main_window",
+    
+      "width": 501,
+        "height": 500
+    },
+    "image": { 
+        "src": "",
+    
+      "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+       " name": "sun1",
+        "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+         "wèdth": 500,
+        "height": 500
+    },
+    "image": { 
+     "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+         "wèdth": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/w",
+    
+      "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "",
+    
+      "width": 500,
+        "height": 500
+    },
+    "ˇˇˇ!e": { 
+        "src": "Images/Sun.png",
+       " name": "sun1",
+        "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+         "wèdth": 500,
+        "height": 500
+    },
+    "[[[[[[[image": { 
+     "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+         "wèdth": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOffse[t": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "t$xt": 

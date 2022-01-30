@@ -1,0 +1,40 @@
+{"widget": {
+    "debug": "on",
+    "window": {
+        "tiname": "main_window",
+    
+      "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "ImagesS/un.png",
+       " Offset": 250,
+        "vOffset": 250,
+  },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+         "wèdth": 500,
+        "height": 500
+    },
+    "image": { "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },     "size": 36,
+        "style": "bold",
+ "name": "text1",
+        "hOffset": 250,
+        "vOffset": 100,
+        "alignment": "center",
+        "onMouseUpvOfet": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+         "wèdth": 500,
+        "height": 500
+    },
+    "image": { 
+        
+}} 

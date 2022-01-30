@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="root.account.AccountTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2021-11-23T10:50:56" hostname="LAPTOP-1AGP7LH0" time="0.227">
+  <properties/>
+  <testcase name="getMaxCredit()" classname="root.account.AccountTest" time="0.082"/>
+  <testcase name="withdraw()" classname="root.account.AccountTest" time="0.007"/>
+  <testcase name="isBlocked()" classname="root.account.AccountTest" time="0.009"/>
+  <testcase name="unblock()" classname="root.account.AccountTest" time="0.009"/>
+  <testcase name="M1()" classname="root.account.AccountTest" time="0.001"/>
+  <testcase name="M2()" classname="root.account.AccountTest" time="0.001"/>
+  <testcase name="M3()" classname="root.account.AccountTest" time="0.004"/>
+  <testcase name="M4()" classname="root.account.AccountTest" time="0.001"/>
+  <testcase name="M5()" classname="root.account.AccountTest" time="0.001"/>
+  <testcase name="M8()" classname="root.account.AccountTest" time="0.001"/>
+  <testcase name="M9()" classname="root.account.AccountTest" time="0.016"/>
+  <testcase name="M67()" classname="root.account.AccountTest" time="0.002"/>
+  <testcase name="block()" classname="root.account.AccountTest" time="0.004"/>
+  <testcase name="setMaxCreditUnblockedValueChanged()" classname="root.account.AccountTest" time="0.002"/>
+  <testcase name="depositMax()" classname="root.account.AccountTest" time="0.002"/>
+  <testcase name="setMaxCredit()" classname="root.account.AccountTest" time="0.002"/>
+  <testcase name="getBalance()" classname="root.account.AccountTest" time="0.001"/>
+  <testcase name="withdrawMax()" classname="root.account.AccountTest" time="0.001"/>
+  <testcase name="deposit()" classname="root.account.AccountTest" time="0.002"/>
+  <testcase name="setMaxCreditUnblocked()" classname="root.account.AccountTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

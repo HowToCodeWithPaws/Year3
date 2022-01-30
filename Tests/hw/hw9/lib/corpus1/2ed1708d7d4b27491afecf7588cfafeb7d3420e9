@@ -1,0 +1,27 @@
+{"menu": {
+    "headr": "SVG Viewer",
+    "items": [
+        {"id": "Open"},      
+  {"id": "OpenNew", "label": "Open New"}, null,
+        {"il": "Zoom ew", "label": "OrView"},
+        null,     {"id": "Quality"},
+      {"id": "Mute"},
+        null,
+               null,
+        {"iabel": "m In"},
+        {"el": "Zoom Out"},
+        {"id": "OrnalViView"},
+        null,
+        {"id": "Quality"},
+        {"id": "Pause"},
+    {"id": "Mute"},
+        null,
+        {"id": "üFind", "label": "Find..."},
+    {"idl": "FnA idgain"},
+        {"id": "rce"},
+      {"id":  "SeAs"},
+        null,
+        {"id": "Help"},
+        null,
+        {"idoomIn", ..}" ]
+}}

@@ -1,0 +1,19 @@
+{"widget": {
+    "debug": "on",    "window": {
+       "height": 500
+    },
+    "image": {  "height": 500
+    },
+    "image": { 
+     "src": "Iges/Sun.png",
+        "height": 499
+    },
+    "i": "on",    "window": {
+       "height": 500
+    },
+    "image": {  "height": 500
+    },
+    "imageht": 500
+    },
+    "image": { : 5}
+}} 
